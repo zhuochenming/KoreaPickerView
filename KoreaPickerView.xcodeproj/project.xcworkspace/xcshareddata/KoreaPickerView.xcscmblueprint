@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B115A2A20F7DE90572CF12F3AA14A8C3421E0C09",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B115A2A20F7DE90572CF12F3AA14A8C3421E0C09" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BD28D2D3-F711-4149-B886-6B40063B3706",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B115A2A20F7DE90572CF12F3AA14A8C3421E0C09" : "KoreaPickerView\/KoreaPickerView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KoreaPickerView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KoreaPickerView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhuochenming\/KoreaPickerView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B115A2A20F7DE90572CF12F3AA14A8C3421E0C09"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhuochenming\/KoreaPickerView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B115A2A20F7DE90572CF12F3AA14A8C3421E0C09"
+    }
+  ]
+}
