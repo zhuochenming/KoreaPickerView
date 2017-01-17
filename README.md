@@ -3,4 +3,4 @@
 
 感谢@hebiao6446大神的韩国json
 
-![image](https://github.com/zhuochenming/CountdownButton/blob/master/screen.png)
+![image](https://github.com/zhuochenming/KoreaPickerView/blob/master/SC.png)
